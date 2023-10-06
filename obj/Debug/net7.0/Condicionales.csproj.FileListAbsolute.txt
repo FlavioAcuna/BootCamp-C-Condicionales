@@ -1,0 +1,15 @@
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Condicionales\bin\Debug\net7.0\Condicionales.exe
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Condicionales\bin\Debug\net7.0\Condicionales.deps.json
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Condicionales\bin\Debug\net7.0\Condicionales.runtimeconfig.json
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Condicionales\bin\Debug\net7.0\Condicionales.dll
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Condicionales\bin\Debug\net7.0\Condicionales.pdb
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Condicionales\obj\Debug\net7.0\Condicionales.csproj.AssemblyReference.cache
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Condicionales\obj\Debug\net7.0\Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Condicionales\obj\Debug\net7.0\Condicionales.AssemblyInfoInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Condicionales\obj\Debug\net7.0\Condicionales.AssemblyInfo.cs
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Condicionales\obj\Debug\net7.0\Condicionales.csproj.CoreCompileInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Condicionales\obj\Debug\net7.0\Condicionales.dll
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Condicionales\obj\Debug\net7.0\refint\Condicionales.dll
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Condicionales\obj\Debug\net7.0\Condicionales.pdb
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Condicionales\obj\Debug\net7.0\Condicionales.genruntimeconfig.cache
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Condicionales\obj\Debug\net7.0\ref\Condicionales.dll
